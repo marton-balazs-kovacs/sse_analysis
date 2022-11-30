@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Title Goes Here
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This repository contains the data preprocessing and analysis code for the project titled "". Other supporting materials can be found on the project's OSF page at []().
+
+## Folder structure
+
