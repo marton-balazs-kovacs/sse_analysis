@@ -101,8 +101,22 @@ rating <-
   arrange(form_id) %>%
   janitor::clean_names() %>% 
   mutate(
+    match = case_when(
+      sp_rating == mk_rating ~ 1L,
+      sp_rating != mk_rating ~ 0L,
+      is.na(sp_rating) | is.na(mk_rating) ~ NA_integer_),
     final_rating = NA_character_
   )
+```
+
+Exploring the matches between ratings.
+
+```{r}
+rating %>% 
+  filter(!is.na(match)) %>% 
+  count(match) %>% 
+  mutate(sum_n = sum(n, na.rm = T),
+         percentage = round(n / sum_n * 100, 2))
 ```
 
 Filtering forms where both ratings are present for comparison and saving the dataset.

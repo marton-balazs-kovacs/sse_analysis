@@ -1,358 +1,358 @@
-form_id,variable,sp_rating,mk_rating,final_rating
-adelaide_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,NA
-adelaide_01,field_choice,All Human Research,All Human Research,NA
-adelaide_01,field_text,Human research ethics,n/a,NA
-adelaide_01,sample_size,Yes,Yes,NA
-adelaide_01,justification,No,No,NA
-adelaide_01,calculations,No,No,NA
-adelaide_01,minimal_effect_size,No,No,NA
-adelaide_01,data_management_plan,No,No,NA
-adelaide_01,archived_data,No,Yes,NA
-adelaide_01,open_data,No,Yes,NA
-adelaide_01,registration_other,No,No,NA
-adelaide_01,registration_clinical_trials,No,No,NA
-anu_01,risk_level,Non-minimal (High),Ambiguous,NA
-anu_01,field_choice,All Human Research,All Human Research,NA
-anu_01,field_text,Human research ethics,n/a,NA
-anu_01,sample_size,Yes,Yes,NA
-anu_01,justification,Yes,Yes,NA
-anu_01,calculations,No,No,NA
-anu_01,minimal_effect_size,No,No,NA
-anu_01,data_management_plan,No,No,NA
-anu_01,archived_data,No,No,NA
-anu_01,open_data,No,No,NA
-anu_01,registration_other,No,No,NA
-anu_01,registration_clinical_trials,No,No,NA
-anu_01,comments,Full review application form,"""(For surveys, include justification of the sample size)."" Why just the surveys?",NA
-anu_02,risk_level,Ambiguous,Minimal (Low),NA
-anu_02,field_choice,All Human Research,All Human Research,NA
-anu_02,field_text,Human research ethics,n/a,NA
-anu_02,sample_size,Yes,Yes,NA
-anu_02,justification,Yes,Yes,NA
-anu_02,calculations,No,No,NA
-anu_02,minimal_effect_size,No,No,NA
-anu_02,data_management_plan,No,No,NA
-anu_02,archived_data,No,No,NA
-anu_02,open_data,No,No,NA
-anu_02,registration_other,No,No,NA
-anu_02,registration_clinical_trials,No,No,NA
-curtin_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,NA
-curtin_01,field_choice,All Human Research,All Human Research,NA
-curtin_01,field_text,Research involving humans,n/a,NA
-curtin_01,sample_size,Yes,Yes,NA
-curtin_01,justification,No,No,NA
-curtin_01,calculations,Yes,No,NA
-curtin_01,minimal_effect_size,No,No,NA
-curtin_01,data_management_plan,Yes,Yes,NA
-curtin_01,archived_data,No,No,NA
-curtin_01,open_data,No,No,NA
-curtin_01,registration_other,No,Yes,NA
-curtin_01,registration_clinical_trials,Yes,No,NA
-duke_01,risk_level,Both minimal and non-minimal,Minimal (Low),NA
-duke_01,field_choice,All Human Research,Unsure,NA
-duke_01,field_text,All human research,n/a,NA
-duke_01,sample_size,Yes,No,NA
-duke_01,justification,No,No,NA
-duke_01,calculations,No,No,NA
-duke_01,minimal_effect_size,No,No,NA
-duke_01,data_management_plan,No,No,NA
-duke_01,archived_data,Yes,Yes,NA
-duke_01,open_data,Yes,Yes,NA
-duke_01,registration_other,No,No,NA
-duke_01,registration_clinical_trials,No,No,NA
-duke_02,risk_level,Both minimal and non-minimal,Minimal (Low),NA
-duke_02,field_choice,All Human Research,Unsure,NA
-duke_02,field_text,All Human research,n/a,NA
-duke_02,sample_size,Yes,Yes,NA
-duke_02,justification,No,No,NA
-duke_02,calculations,No,No,NA
-duke_02,minimal_effect_size,No,No,NA
-duke_02,data_management_plan,No,No,NA
-duke_02,archived_data,Yes,Yes,NA
-duke_02,open_data,Yes,Yes,NA
-duke_02,registration_other,No,No,NA
-duke_02,registration_clinical_trials,No,No,NA
-duke_03,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,NA
-duke_03,field_choice,All Human Research,Unsure,NA
-duke_03,field_text,All human,n/a,NA
-duke_03,sample_size,Yes,No,NA
-duke_03,justification,No,No,NA
-duke_03,calculations,No,No,NA
-duke_03,minimal_effect_size,No,No,NA
-duke_03,data_management_plan,No,No,NA
-duke_03,archived_data,No,Yes,NA
-duke_03,open_data,No,No,NA
-duke_03,registration_other,No,No,NA
-duke_03,registration_clinical_trials,No,No,NA
-hopkins_01,risk_level,Ambiguous,Ambiguous,NA
-hopkins_01,field_choice,Medicine form,Medicine form,NA
-hopkins_01,field_text,Medicine,unknown,NA
-hopkins_01,sample_size,Yes,Yes,NA
-hopkins_01,justification,Yes,No,NA
-hopkins_01,calculations,No,No,NA
-hopkins_01,minimal_effect_size,No,No,NA
-hopkins_01,data_management_plan,Yes,No,NA
-hopkins_01,archived_data,No,Yes,NA
-hopkins_01,open_data,No,Yes,NA
-hopkins_01,registration_other,No,No,NA
-hopkins_01,registration_clinical_trials,No,No,NA
-hopkins_01,comments,Secondary research form,"""Explain how access to the data will be controlled and whether the access is logged."" could we specify this as question about open data sharing?",NA
-hopkins_02,risk_level,Minimal (Low),Ambiguous,NA
-hopkins_02,field_choice,Medicine form,Unsure,NA
-hopkins_02,field_text,Medicine,n/a,NA
-hopkins_02,sample_size,No,No,NA
-hopkins_02,justification,No,No,NA
-hopkins_02,calculations,No,No,NA
-hopkins_02,minimal_effect_size,No,No,NA
-hopkins_02,data_management_plan,Yes,No,NA
-hopkins_02,archived_data,No,Yes,NA
-hopkins_02,open_data,No,No,NA
-hopkins_02,registration_other,No,No,NA
-hopkins_02,registration_clinical_trials,No,No,NA
-hopkins_03,risk_level,Ambiguous,Ambiguous,NA
-hopkins_03,field_choice,Medicine form,Unsure,NA
-hopkins_03,field_text,Medicine,n/a,NA
-hopkins_03,sample_size,No,No,NA
-hopkins_03,justification,Yes,Yes,NA
-hopkins_03,calculations,Yes,No,NA
-hopkins_03,minimal_effect_size,No,No,NA
-hopkins_03,data_management_plan,No,No,NA
-hopkins_03,archived_data,No,No,NA
-hopkins_03,open_data,No,No,NA
-hopkins_03,registration_other,No,No,NA
-hopkins_03,registration_clinical_trials,No,No,NA
-latrobe_01_a,risk_level,Both minimal and non-minimal,Ambiguous,NA
-latrobe_01_a,field_choice,All Human Research,Unsure,NA
-latrobe_01_a,field_text,All human research,n/a,NA
-latrobe_01_a,sample_size,Yes,Yes,NA
-latrobe_01_a,justification,Yes,Yes,NA
-latrobe_01_a,calculations,Yes,No,NA
-latrobe_01_a,minimal_effect_size,No,No,NA
-latrobe_01_a,data_management_plan,Yes,No,NA
-latrobe_01_a,archived_data,Yes,Yes,NA
-latrobe_01_a,open_data,Yes,Yes,NA
-latrobe_01_a,registration_other,No,No,NA
-latrobe_01_a,registration_clinical_trials,Yes,Yes,NA
-latrobe_01_a,comments,"Coded with latrobe_01_b / form b only contributed to clin reg response, the rest are from form a",7.4 Clinical trials registry number (register at http://www.anzctr.org.au/): Insert text here,NA
-maryland_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,NA
-maryland_01,field_choice,All Human Research,Unsure,NA
-maryland_01,field_text,All human research,n/a,NA
-maryland_01,sample_size,Yes,Yes,NA
-maryland_01,justification,Yes,Yes,NA
-maryland_01,calculations,No,No,NA
-maryland_01,minimal_effect_size,No,No,NA
-maryland_01,data_management_plan,No,No,NA
-maryland_01,archived_data,No,Yes,NA
-maryland_01,open_data,No,No,NA
-maryland_01,registration_other,No,No,NA
-maryland_01,registration_clinical_trials,No,No,NA
-monash_01,risk_level,Minimal (Low),Ambiguous,NA
-monash_01,field_choice,All Human Research,All Human Research,NA
-monash_01,field_text,Human ethics,n/a,NA
-monash_01,sample_size,Yes,Yes,NA
-monash_01,justification,No,No,NA
-monash_01,calculations,No,No,NA
-monash_01,minimal_effect_size,No,No,NA
-monash_01,data_management_plan,Yes,No,NA
-monash_01,archived_data,No,No,NA
-monash_01,open_data,Yes,Yes,NA
-monash_01,registration_other,No,No,NA
-monash_01,registration_clinical_trials,No,No,NA
-monash_02,risk_level,Non-minimal (High),Both minimal and non-minimal,NA
-monash_02,field_choice,All Human Research,All Human Research,NA
-monash_02,field_text,Human ethics,n/a,NA
-monash_02,sample_size,Yes,Yes,NA
-monash_02,justification,No,No,NA
-monash_02,calculations,No,No,NA
-monash_02,minimal_effect_size,No,No,NA
-monash_02,data_management_plan,Yes,No,NA
-monash_02,archived_data,No,No,NA
-monash_02,open_data,Yes,Yes,NA
-monash_02,registration_other,No,No,NA
-monash_02,registration_clinical_trials,No,No,NA
-monash_02,comments,High risk ethics,I am not sure whether this is the high risk or monash1 or what the difference is really.,NA
-pittsburgh_01,risk_level,Both minimal and non-minimal,Ambiguous,NA
-pittsburgh_01,field_choice,All Human Research,Medicine form,NA
-pittsburgh_01,field_text,All human research,unknown,NA
-pittsburgh_01,sample_size,Yes,Yes,NA
-pittsburgh_01,justification,Yes,Yes,NA
-pittsburgh_01,calculations,Yes,No,NA
-pittsburgh_01,minimal_effect_size,No,No,NA
-pittsburgh_01,data_management_plan,Yes,No,NA
-pittsburgh_01,archived_data,No,No,NA
-pittsburgh_01,open_data,No,No,NA
-pittsburgh_01,registration_other,No,No,NA
-pittsburgh_01,registration_clinical_trials,Yes,Yes,NA
-stanford_01,risk_level,Both minimal and non-minimal,Ambiguous,NA
-stanford_01,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,NA
-stanford_01,field_text,Non medical,n/a,NA
-stanford_01,sample_size,No,No,NA
-stanford_01,justification,No,No,NA
-stanford_01,calculations,No,No,NA
-stanford_01,minimal_effect_size,No,No,NA
-stanford_01,data_management_plan,No,No,NA
-stanford_01,archived_data,No,No,NA
-stanford_01,open_data,No,No,NA
-stanford_01,registration_other,No,No,NA
-stanford_01,registration_clinical_trials,No,No,NA
-stanford_01,comments,Non medical single IRB,stanford_01,NA
-stanford_02,risk_level,Both minimal and non-minimal,Non-minimal (High),NA
-stanford_02,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,NA
-stanford_02,field_text,Non medical,n/a,NA
-stanford_02,sample_size,Yes,Yes,NA
-stanford_02,justification,No,No,NA
-stanford_02,calculations,No,No,NA
-stanford_02,minimal_effect_size,No,No,NA
-stanford_02,data_management_plan,No,No,NA
-stanford_02,archived_data,No,Yes,NA
-stanford_02,open_data,No,Yes,NA
-stanford_02,registration_other,No,No,NA
-stanford_02,registration_clinical_trials,No,No,NA
-stanford_02,comments,Non medical regular,stanford_02,NA
-tasmania_01,risk_level,Both minimal and non-minimal,Ambiguous,NA
-tasmania_01,field_choice,Medicine and Psychology Combined,Medicine form,NA
-tasmania_01,field_text,Health and medical research focus,unknown,NA
-tasmania_01,sample_size,Yes,Yes,NA
-tasmania_01,justification,Yes,Yes,NA
-tasmania_01,calculations,Yes,No,NA
-tasmania_01,minimal_effect_size,No,No,NA
-tasmania_01,data_management_plan,Yes,Yes,NA
-tasmania_01,archived_data,Yes,Yes,NA
-tasmania_01,open_data,No,Yes,NA
-tasmania_01,registration_other,No,No,NA
-tasmania_01,registration_clinical_trials,No,No,NA
-tasmania_02,risk_level,Both minimal and non-minimal,Ambiguous,NA
-tasmania_02,field_choice,Social Sciences form,Social Sciences form,NA
-tasmania_02,field_text,Social sciences research focus,unknown,NA
-tasmania_02,sample_size,Yes,Yes,NA
-tasmania_02,justification,Yes,Yes,NA
-tasmania_02,calculations,No,No,NA
-tasmania_02,minimal_effect_size,No,No,NA
-tasmania_02,data_management_plan,Yes,Yes,NA
-tasmania_02,archived_data,Yes,Yes,NA
-tasmania_02,open_data,No,No,NA
-tasmania_02,registration_other,No,No,NA
-tasmania_02,registration_clinical_trials,No,No,NA
-unsw_01_b,risk_level,Both minimal and non-minimal,Ambiguous,NA
-unsw_01_b,field_choice,All Human Research,Unsure,NA
-unsw_01_b,field_text,Human research,n/a,NA
-unsw_01_b,sample_size,Yes,Yes,NA
-unsw_01_b,justification,Yes,Yes,NA
-unsw_01_b,calculations,Yes,No,NA
-unsw_01_b,minimal_effect_size,No,No,NA
-unsw_01_b,data_management_plan,No,No,NA
-unsw_01_b,archived_data,Yes,Yes,NA
-unsw_01_b,open_data,No,Yes,NA
-unsw_01_b,registration_other,No,No,NA
-unsw_01_b,registration_clinical_trials,No,No,NA
-unsw_03,risk_level,Both minimal and non-minimal,Ambiguous,NA
-unsw_03,field_choice,Medicine form,Medicine form,NA
-unsw_03,field_text,Clinical trial protocol for investigational medical product,unknown,NA
-unsw_03,sample_size,Yes,Yes,NA
-unsw_03,justification,No,No,NA
-unsw_03,calculations,Yes,Yes,NA
-unsw_03,minimal_effect_size,No,No,NA
-unsw_03,data_management_plan,No,No,NA
-unsw_03,archived_data,No,No,NA
-unsw_03,open_data,No,No,NA
-unsw_03,registration_other,No,No,NA
-unsw_03,registration_clinical_trials,No,No,NA
-unsw_04,risk_level,Both minimal and non-minimal,Ambiguous,NA
-unsw_04,field_choice,Medicine form,Medicine form,NA
-unsw_04,field_text,Clinical trial protocol investigational medical device,unknown,NA
-unsw_04,sample_size,Yes,Yes,NA
-unsw_04,justification,No,No,NA
-unsw_04,calculations,Yes,Yes,NA
-unsw_04,minimal_effect_size,No,No,NA
-unsw_04,data_management_plan,No,No,NA
-unsw_04,archived_data,No,No,NA
-unsw_04,open_data,No,No,NA
-unsw_04,registration_other,No,No,NA
-unsw_04,registration_clinical_trials,No,No,NA
-unsw_05,risk_level,Both minimal and non-minimal,Ambiguous,NA
-unsw_05,field_choice,Medicine and Psychology Combined,Medicine form,NA
-unsw_05,field_text,"Clinical trial protocol, physiological, psychological, psychiatric, surgical or health intervention","Physiological, Psychological, Psychiatric, Surgical or Health Interventions",NA
-unsw_05,sample_size,Yes,Yes,NA
-unsw_05,justification,No,No,NA
-unsw_05,calculations,Yes,Yes,NA
-unsw_05,minimal_effect_size,No,No,NA
-unsw_05,data_management_plan,No,No,NA
-unsw_05,archived_data,No,No,NA
-unsw_05,open_data,No,No,NA
-unsw_05,registration_other,No,No,NA
-unsw_05,registration_clinical_trials,No,No,NA
-uscd_01,risk_level,Both minimal and non-minimal,Ambiguous,NA
-uscd_01,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,NA
-uscd_01,field_text,Social and behavioural protocol,unkown,NA
-uscd_01,sample_size,No,No,NA
-uscd_01,justification,No,No,NA
-uscd_01,calculations,No,No,NA
-uscd_01,minimal_effect_size,No,No,NA
-uscd_01,data_management_plan,No,No,NA
-uscd_01,archived_data,No,No,NA
-uscd_01,open_data,No,No,NA
-uscd_01,registration_other,No,No,NA
-uscd_01,registration_clinical_trials,No,No,NA
-uscd_02,risk_level,Ambiguous,Both minimal and non-minimal,NA
-uscd_02,field_choice,Medicine form,Unsure,NA
-uscd_02,field_text,Biomed,n/a,NA
-uscd_02,sample_size,No,No,NA
-uscd_02,justification,Yes,No,NA
-uscd_02,calculations,No,No,NA
-uscd_02,minimal_effect_size,No,No,NA
-uscd_02,data_management_plan,No,No,NA
-uscd_02,archived_data,No,No,NA
-uscd_02,open_data,No,No,NA
-uscd_02,registration_other,No,No,NA
-uscd_02,registration_clinical_trials,No,No,NA
-uscd_02,comments,Biomedical protocol for non interventional studies,I rated this form as both minimal and non-minimal risk because this form could be used to get HIPAA waiwer. If this is correct my rating for uscd_01 should be changed as well.,NA
-uscd_03,risk_level,Both minimal and non-minimal,Ambiguous,NA
-uscd_03,field_choice,Medicine form,Medicine form,NA
-uscd_03,field_text,Biomedical and interventional studies,unknown,NA
-uscd_03,sample_size,Yes,Yes,NA
-uscd_03,justification,Yes,Yes,NA
-uscd_03,calculations,Yes,Yes,NA
-uscd_03,minimal_effect_size,Yes,No,NA
-uscd_03,data_management_plan,Yes,No,NA
-uscd_03,archived_data,No,Yes,NA
-uscd_03,open_data,No,Yes,NA
-uscd_03,registration_other,No,No,NA
-uscd_03,registration_clinical_trials,No,No,NA
-uscd_03,comments,Biomedical protocol for interventional research,the form states that confirmatory analyses should be registered but does not recommend registries.,NA
-uwa_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,NA
-uwa_01,field_choice,All Human Research,All Human Research,NA
-uwa_01,field_text,All in one (from e-mails),n/a,NA
-uwa_01,sample_size,No,No,NA
-uwa_01,justification,No,No,NA
-uwa_01,calculations,No,No,NA
-uwa_01,minimal_effect_size,No,No,NA
-uwa_01,data_management_plan,Yes,No,NA
-uwa_01,archived_data,No,No,NA
-uwa_01,open_data,No,No,NA
-uwa_01,registration_other,No,No,NA
-uwa_01,registration_clinical_trials,No,No,NA
-washington_01,risk_level,Both minimal and non-minimal,Ambiguous,NA
-washington_01,field_choice,All Human Research,Unsure,NA
-washington_01,field_text,Human subjects,n/a,NA
-washington_01,sample_size,Yes,Yes,NA
-washington_01,justification,No,No,NA
-washington_01,calculations,No,No,NA
-washington_01,minimal_effect_size,No,No,NA
-washington_01,data_management_plan,No,No,NA
-washington_01,archived_data,Yes,Yes,NA
-washington_01,open_data,No,Yes,NA
-washington_01,registration_other,No,No,NA
-washington_01,registration_clinical_trials,No,No,NA
-washington_02,risk_level,Both minimal and non-minimal,Ambiguous,NA
-washington_02,field_choice,All Human Research,Unsure,NA
-washington_02,field_text,Human subjects,n/a,NA
-washington_02,sample_size,Yes,Yes,NA
-washington_02,justification,No,No,NA
-washington_02,calculations,No,No,NA
-washington_02,minimal_effect_size,No,No,NA
-washington_02,data_management_plan,No,No,NA
-washington_02,archived_data,Yes,Yes,NA
-washington_02,open_data,No,Yes,NA
-washington_02,registration_other,No,No,NA
-washington_02,registration_clinical_trials,No,No,NA
-washington_02,comments,No contact form,washington_02,NA
+form_id,variable,sp_rating,mk_rating,match,final_rating
+adelaide_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,1,NA
+adelaide_01,field_choice,All Human Research,All Human Research,1,NA
+adelaide_01,field_text,Human research ethics,n/a,0,NA
+adelaide_01,sample_size,Yes,Yes,1,NA
+adelaide_01,justification,No,No,1,NA
+adelaide_01,calculations,No,No,1,NA
+adelaide_01,minimal_effect_size,No,No,1,NA
+adelaide_01,data_management_plan,No,No,1,NA
+adelaide_01,archived_data,No,Yes,0,NA
+adelaide_01,open_data,No,Yes,0,NA
+adelaide_01,registration_other,No,No,1,NA
+adelaide_01,registration_clinical_trials,No,No,1,NA
+anu_01,risk_level,Non-minimal (High),Ambiguous,0,NA
+anu_01,field_choice,All Human Research,All Human Research,1,NA
+anu_01,field_text,Human research ethics,n/a,0,NA
+anu_01,sample_size,Yes,Yes,1,NA
+anu_01,justification,Yes,Yes,1,NA
+anu_01,calculations,No,No,1,NA
+anu_01,minimal_effect_size,No,No,1,NA
+anu_01,data_management_plan,No,No,1,NA
+anu_01,archived_data,No,No,1,NA
+anu_01,open_data,No,No,1,NA
+anu_01,registration_other,No,No,1,NA
+anu_01,registration_clinical_trials,No,No,1,NA
+anu_01,comments,Full review application form,"""(For surveys, include justification of the sample size)."" Why just the surveys?",0,NA
+anu_02,risk_level,Ambiguous,Minimal (Low),0,NA
+anu_02,field_choice,All Human Research,All Human Research,1,NA
+anu_02,field_text,Human research ethics,n/a,0,NA
+anu_02,sample_size,Yes,Yes,1,NA
+anu_02,justification,Yes,Yes,1,NA
+anu_02,calculations,No,No,1,NA
+anu_02,minimal_effect_size,No,No,1,NA
+anu_02,data_management_plan,No,No,1,NA
+anu_02,archived_data,No,No,1,NA
+anu_02,open_data,No,No,1,NA
+anu_02,registration_other,No,No,1,NA
+anu_02,registration_clinical_trials,No,No,1,NA
+curtin_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,1,NA
+curtin_01,field_choice,All Human Research,All Human Research,1,NA
+curtin_01,field_text,Research involving humans,n/a,0,NA
+curtin_01,sample_size,Yes,Yes,1,NA
+curtin_01,justification,No,No,1,NA
+curtin_01,calculations,Yes,No,0,NA
+curtin_01,minimal_effect_size,No,No,1,NA
+curtin_01,data_management_plan,Yes,Yes,1,NA
+curtin_01,archived_data,No,No,1,NA
+curtin_01,open_data,No,No,1,NA
+curtin_01,registration_other,No,Yes,0,NA
+curtin_01,registration_clinical_trials,Yes,No,0,NA
+duke_01,risk_level,Both minimal and non-minimal,Minimal (Low),0,NA
+duke_01,field_choice,All Human Research,Unsure,0,NA
+duke_01,field_text,All human research,n/a,0,NA
+duke_01,sample_size,Yes,No,0,NA
+duke_01,justification,No,No,1,NA
+duke_01,calculations,No,No,1,NA
+duke_01,minimal_effect_size,No,No,1,NA
+duke_01,data_management_plan,No,No,1,NA
+duke_01,archived_data,Yes,Yes,1,NA
+duke_01,open_data,Yes,Yes,1,NA
+duke_01,registration_other,No,No,1,NA
+duke_01,registration_clinical_trials,No,No,1,NA
+duke_02,risk_level,Both minimal and non-minimal,Minimal (Low),0,NA
+duke_02,field_choice,All Human Research,Unsure,0,NA
+duke_02,field_text,All Human research,n/a,0,NA
+duke_02,sample_size,Yes,Yes,1,NA
+duke_02,justification,No,No,1,NA
+duke_02,calculations,No,No,1,NA
+duke_02,minimal_effect_size,No,No,1,NA
+duke_02,data_management_plan,No,No,1,NA
+duke_02,archived_data,Yes,Yes,1,NA
+duke_02,open_data,Yes,Yes,1,NA
+duke_02,registration_other,No,No,1,NA
+duke_02,registration_clinical_trials,No,No,1,NA
+duke_03,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,1,NA
+duke_03,field_choice,All Human Research,Unsure,0,NA
+duke_03,field_text,All human,n/a,0,NA
+duke_03,sample_size,Yes,No,0,NA
+duke_03,justification,No,No,1,NA
+duke_03,calculations,No,No,1,NA
+duke_03,minimal_effect_size,No,No,1,NA
+duke_03,data_management_plan,No,No,1,NA
+duke_03,archived_data,No,Yes,0,NA
+duke_03,open_data,No,No,1,NA
+duke_03,registration_other,No,No,1,NA
+duke_03,registration_clinical_trials,No,No,1,NA
+hopkins_01,risk_level,Ambiguous,Ambiguous,1,NA
+hopkins_01,field_choice,Medicine form,Medicine form,1,NA
+hopkins_01,field_text,Medicine,unknown,0,NA
+hopkins_01,sample_size,Yes,Yes,1,NA
+hopkins_01,justification,Yes,No,0,NA
+hopkins_01,calculations,No,No,1,NA
+hopkins_01,minimal_effect_size,No,No,1,NA
+hopkins_01,data_management_plan,Yes,No,0,NA
+hopkins_01,archived_data,No,Yes,0,NA
+hopkins_01,open_data,No,Yes,0,NA
+hopkins_01,registration_other,No,No,1,NA
+hopkins_01,registration_clinical_trials,No,No,1,NA
+hopkins_01,comments,Secondary research form,"""Explain how access to the data will be controlled and whether the access is logged."" could we specify this as question about open data sharing?",0,NA
+hopkins_02,risk_level,Minimal (Low),Ambiguous,0,NA
+hopkins_02,field_choice,Medicine form,Unsure,0,NA
+hopkins_02,field_text,Medicine,n/a,0,NA
+hopkins_02,sample_size,No,No,1,NA
+hopkins_02,justification,No,No,1,NA
+hopkins_02,calculations,No,No,1,NA
+hopkins_02,minimal_effect_size,No,No,1,NA
+hopkins_02,data_management_plan,Yes,No,0,NA
+hopkins_02,archived_data,No,Yes,0,NA
+hopkins_02,open_data,No,No,1,NA
+hopkins_02,registration_other,No,No,1,NA
+hopkins_02,registration_clinical_trials,No,No,1,NA
+hopkins_03,risk_level,Ambiguous,Ambiguous,1,NA
+hopkins_03,field_choice,Medicine form,Unsure,0,NA
+hopkins_03,field_text,Medicine,n/a,0,NA
+hopkins_03,sample_size,No,No,1,NA
+hopkins_03,justification,Yes,Yes,1,NA
+hopkins_03,calculations,Yes,No,0,NA
+hopkins_03,minimal_effect_size,No,No,1,NA
+hopkins_03,data_management_plan,No,No,1,NA
+hopkins_03,archived_data,No,No,1,NA
+hopkins_03,open_data,No,No,1,NA
+hopkins_03,registration_other,No,No,1,NA
+hopkins_03,registration_clinical_trials,No,No,1,NA
+latrobe_01_a,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+latrobe_01_a,field_choice,All Human Research,Unsure,0,NA
+latrobe_01_a,field_text,All human research,n/a,0,NA
+latrobe_01_a,sample_size,Yes,Yes,1,NA
+latrobe_01_a,justification,Yes,Yes,1,NA
+latrobe_01_a,calculations,Yes,No,0,NA
+latrobe_01_a,minimal_effect_size,No,No,1,NA
+latrobe_01_a,data_management_plan,Yes,No,0,NA
+latrobe_01_a,archived_data,Yes,Yes,1,NA
+latrobe_01_a,open_data,Yes,Yes,1,NA
+latrobe_01_a,registration_other,No,No,1,NA
+latrobe_01_a,registration_clinical_trials,Yes,Yes,1,NA
+latrobe_01_a,comments,"Coded with latrobe_01_b / form b only contributed to clin reg response, the rest are from form a",7.4 Clinical trials registry number (register at http://www.anzctr.org.au/): Insert text here,0,NA
+maryland_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,1,NA
+maryland_01,field_choice,All Human Research,Unsure,0,NA
+maryland_01,field_text,All human research,n/a,0,NA
+maryland_01,sample_size,Yes,Yes,1,NA
+maryland_01,justification,Yes,Yes,1,NA
+maryland_01,calculations,No,No,1,NA
+maryland_01,minimal_effect_size,No,No,1,NA
+maryland_01,data_management_plan,No,No,1,NA
+maryland_01,archived_data,No,Yes,0,NA
+maryland_01,open_data,No,No,1,NA
+maryland_01,registration_other,No,No,1,NA
+maryland_01,registration_clinical_trials,No,No,1,NA
+monash_01,risk_level,Minimal (Low),Ambiguous,0,NA
+monash_01,field_choice,All Human Research,All Human Research,1,NA
+monash_01,field_text,Human ethics,n/a,0,NA
+monash_01,sample_size,Yes,Yes,1,NA
+monash_01,justification,No,No,1,NA
+monash_01,calculations,No,No,1,NA
+monash_01,minimal_effect_size,No,No,1,NA
+monash_01,data_management_plan,Yes,No,0,NA
+monash_01,archived_data,No,No,1,NA
+monash_01,open_data,Yes,Yes,1,NA
+monash_01,registration_other,No,No,1,NA
+monash_01,registration_clinical_trials,No,No,1,NA
+monash_02,risk_level,Non-minimal (High),Both minimal and non-minimal,0,NA
+monash_02,field_choice,All Human Research,All Human Research,1,NA
+monash_02,field_text,Human ethics,n/a,0,NA
+monash_02,sample_size,Yes,Yes,1,NA
+monash_02,justification,No,No,1,NA
+monash_02,calculations,No,No,1,NA
+monash_02,minimal_effect_size,No,No,1,NA
+monash_02,data_management_plan,Yes,No,0,NA
+monash_02,archived_data,No,No,1,NA
+monash_02,open_data,Yes,Yes,1,NA
+monash_02,registration_other,No,No,1,NA
+monash_02,registration_clinical_trials,No,No,1,NA
+monash_02,comments,High risk ethics,I am not sure whether this is the high risk or monash1 or what the difference is really.,0,NA
+pittsburgh_01,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+pittsburgh_01,field_choice,All Human Research,Medicine form,0,NA
+pittsburgh_01,field_text,All human research,unknown,0,NA
+pittsburgh_01,sample_size,Yes,Yes,1,NA
+pittsburgh_01,justification,Yes,Yes,1,NA
+pittsburgh_01,calculations,Yes,No,0,NA
+pittsburgh_01,minimal_effect_size,No,No,1,NA
+pittsburgh_01,data_management_plan,Yes,No,0,NA
+pittsburgh_01,archived_data,No,No,1,NA
+pittsburgh_01,open_data,No,No,1,NA
+pittsburgh_01,registration_other,No,No,1,NA
+pittsburgh_01,registration_clinical_trials,Yes,Yes,1,NA
+stanford_01,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+stanford_01,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,1,NA
+stanford_01,field_text,Non medical,n/a,0,NA
+stanford_01,sample_size,No,No,1,NA
+stanford_01,justification,No,No,1,NA
+stanford_01,calculations,No,No,1,NA
+stanford_01,minimal_effect_size,No,No,1,NA
+stanford_01,data_management_plan,No,No,1,NA
+stanford_01,archived_data,No,No,1,NA
+stanford_01,open_data,No,No,1,NA
+stanford_01,registration_other,No,No,1,NA
+stanford_01,registration_clinical_trials,No,No,1,NA
+stanford_01,comments,Non medical single IRB,stanford_01,0,NA
+stanford_02,risk_level,Both minimal and non-minimal,Non-minimal (High),0,NA
+stanford_02,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,1,NA
+stanford_02,field_text,Non medical,n/a,0,NA
+stanford_02,sample_size,Yes,Yes,1,NA
+stanford_02,justification,No,No,1,NA
+stanford_02,calculations,No,No,1,NA
+stanford_02,minimal_effect_size,No,No,1,NA
+stanford_02,data_management_plan,No,No,1,NA
+stanford_02,archived_data,No,Yes,0,NA
+stanford_02,open_data,No,Yes,0,NA
+stanford_02,registration_other,No,No,1,NA
+stanford_02,registration_clinical_trials,No,No,1,NA
+stanford_02,comments,Non medical regular,stanford_02,0,NA
+tasmania_01,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+tasmania_01,field_choice,Medicine and Psychology Combined,Medicine form,0,NA
+tasmania_01,field_text,Health and medical research focus,unknown,0,NA
+tasmania_01,sample_size,Yes,Yes,1,NA
+tasmania_01,justification,Yes,Yes,1,NA
+tasmania_01,calculations,Yes,No,0,NA
+tasmania_01,minimal_effect_size,No,No,1,NA
+tasmania_01,data_management_plan,Yes,Yes,1,NA
+tasmania_01,archived_data,Yes,Yes,1,NA
+tasmania_01,open_data,No,Yes,0,NA
+tasmania_01,registration_other,No,No,1,NA
+tasmania_01,registration_clinical_trials,No,No,1,NA
+tasmania_02,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+tasmania_02,field_choice,Social Sciences form,Social Sciences form,1,NA
+tasmania_02,field_text,Social sciences research focus,unknown,0,NA
+tasmania_02,sample_size,Yes,Yes,1,NA
+tasmania_02,justification,Yes,Yes,1,NA
+tasmania_02,calculations,No,No,1,NA
+tasmania_02,minimal_effect_size,No,No,1,NA
+tasmania_02,data_management_plan,Yes,Yes,1,NA
+tasmania_02,archived_data,Yes,Yes,1,NA
+tasmania_02,open_data,No,No,1,NA
+tasmania_02,registration_other,No,No,1,NA
+tasmania_02,registration_clinical_trials,No,No,1,NA
+unsw_01_b,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+unsw_01_b,field_choice,All Human Research,Unsure,0,NA
+unsw_01_b,field_text,Human research,n/a,0,NA
+unsw_01_b,sample_size,Yes,Yes,1,NA
+unsw_01_b,justification,Yes,Yes,1,NA
+unsw_01_b,calculations,Yes,No,0,NA
+unsw_01_b,minimal_effect_size,No,No,1,NA
+unsw_01_b,data_management_plan,No,No,1,NA
+unsw_01_b,archived_data,Yes,Yes,1,NA
+unsw_01_b,open_data,No,Yes,0,NA
+unsw_01_b,registration_other,No,No,1,NA
+unsw_01_b,registration_clinical_trials,No,No,1,NA
+unsw_03,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+unsw_03,field_choice,Medicine form,Medicine form,1,NA
+unsw_03,field_text,Clinical trial protocol for investigational medical product,unknown,0,NA
+unsw_03,sample_size,Yes,Yes,1,NA
+unsw_03,justification,No,No,1,NA
+unsw_03,calculations,Yes,Yes,1,NA
+unsw_03,minimal_effect_size,No,No,1,NA
+unsw_03,data_management_plan,No,No,1,NA
+unsw_03,archived_data,No,No,1,NA
+unsw_03,open_data,No,No,1,NA
+unsw_03,registration_other,No,No,1,NA
+unsw_03,registration_clinical_trials,No,No,1,NA
+unsw_04,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+unsw_04,field_choice,Medicine form,Medicine form,1,NA
+unsw_04,field_text,Clinical trial protocol investigational medical device,unknown,0,NA
+unsw_04,sample_size,Yes,Yes,1,NA
+unsw_04,justification,No,No,1,NA
+unsw_04,calculations,Yes,Yes,1,NA
+unsw_04,minimal_effect_size,No,No,1,NA
+unsw_04,data_management_plan,No,No,1,NA
+unsw_04,archived_data,No,No,1,NA
+unsw_04,open_data,No,No,1,NA
+unsw_04,registration_other,No,No,1,NA
+unsw_04,registration_clinical_trials,No,No,1,NA
+unsw_05,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+unsw_05,field_choice,Medicine and Psychology Combined,Medicine form,0,NA
+unsw_05,field_text,"Clinical trial protocol, physiological, psychological, psychiatric, surgical or health intervention","Physiological, Psychological, Psychiatric, Surgical or Health Interventions",0,NA
+unsw_05,sample_size,Yes,Yes,1,NA
+unsw_05,justification,No,No,1,NA
+unsw_05,calculations,Yes,Yes,1,NA
+unsw_05,minimal_effect_size,No,No,1,NA
+unsw_05,data_management_plan,No,No,1,NA
+unsw_05,archived_data,No,No,1,NA
+unsw_05,open_data,No,No,1,NA
+unsw_05,registration_other,No,No,1,NA
+unsw_05,registration_clinical_trials,No,No,1,NA
+uscd_01,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+uscd_01,field_choice,Psychology and Social Sciences Combined,Psychology and Social Sciences Combined,1,NA
+uscd_01,field_text,Social and behavioural protocol,unkown,0,NA
+uscd_01,sample_size,No,No,1,NA
+uscd_01,justification,No,No,1,NA
+uscd_01,calculations,No,No,1,NA
+uscd_01,minimal_effect_size,No,No,1,NA
+uscd_01,data_management_plan,No,No,1,NA
+uscd_01,archived_data,No,No,1,NA
+uscd_01,open_data,No,No,1,NA
+uscd_01,registration_other,No,No,1,NA
+uscd_01,registration_clinical_trials,No,No,1,NA
+uscd_02,risk_level,Ambiguous,Both minimal and non-minimal,0,NA
+uscd_02,field_choice,Medicine form,Unsure,0,NA
+uscd_02,field_text,Biomed,n/a,0,NA
+uscd_02,sample_size,No,No,1,NA
+uscd_02,justification,Yes,No,0,NA
+uscd_02,calculations,No,No,1,NA
+uscd_02,minimal_effect_size,No,No,1,NA
+uscd_02,data_management_plan,No,No,1,NA
+uscd_02,archived_data,No,No,1,NA
+uscd_02,open_data,No,No,1,NA
+uscd_02,registration_other,No,No,1,NA
+uscd_02,registration_clinical_trials,No,No,1,NA
+uscd_02,comments,Biomedical protocol for non interventional studies,I rated this form as both minimal and non-minimal risk because this form could be used to get HIPAA waiwer. If this is correct my rating for uscd_01 should be changed as well.,0,NA
+uscd_03,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+uscd_03,field_choice,Medicine form,Medicine form,1,NA
+uscd_03,field_text,Biomedical and interventional studies,unknown,0,NA
+uscd_03,sample_size,Yes,Yes,1,NA
+uscd_03,justification,Yes,Yes,1,NA
+uscd_03,calculations,Yes,Yes,1,NA
+uscd_03,minimal_effect_size,Yes,No,0,NA
+uscd_03,data_management_plan,Yes,No,0,NA
+uscd_03,archived_data,No,Yes,0,NA
+uscd_03,open_data,No,Yes,0,NA
+uscd_03,registration_other,No,No,1,NA
+uscd_03,registration_clinical_trials,No,No,1,NA
+uscd_03,comments,Biomedical protocol for interventional research,the form states that confirmatory analyses should be registered but does not recommend registries.,0,NA
+uwa_01,risk_level,Both minimal and non-minimal,Both minimal and non-minimal,1,NA
+uwa_01,field_choice,All Human Research,All Human Research,1,NA
+uwa_01,field_text,All in one (from e-mails),n/a,0,NA
+uwa_01,sample_size,No,No,1,NA
+uwa_01,justification,No,No,1,NA
+uwa_01,calculations,No,No,1,NA
+uwa_01,minimal_effect_size,No,No,1,NA
+uwa_01,data_management_plan,Yes,No,0,NA
+uwa_01,archived_data,No,No,1,NA
+uwa_01,open_data,No,No,1,NA
+uwa_01,registration_other,No,No,1,NA
+uwa_01,registration_clinical_trials,No,No,1,NA
+washington_01,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+washington_01,field_choice,All Human Research,Unsure,0,NA
+washington_01,field_text,Human subjects,n/a,0,NA
+washington_01,sample_size,Yes,Yes,1,NA
+washington_01,justification,No,No,1,NA
+washington_01,calculations,No,No,1,NA
+washington_01,minimal_effect_size,No,No,1,NA
+washington_01,data_management_plan,No,No,1,NA
+washington_01,archived_data,Yes,Yes,1,NA
+washington_01,open_data,No,Yes,0,NA
+washington_01,registration_other,No,No,1,NA
+washington_01,registration_clinical_trials,No,No,1,NA
+washington_02,risk_level,Both minimal and non-minimal,Ambiguous,0,NA
+washington_02,field_choice,All Human Research,Unsure,0,NA
+washington_02,field_text,Human subjects,n/a,0,NA
+washington_02,sample_size,Yes,Yes,1,NA
+washington_02,justification,No,No,1,NA
+washington_02,calculations,No,No,1,NA
+washington_02,minimal_effect_size,No,No,1,NA
+washington_02,data_management_plan,No,No,1,NA
+washington_02,archived_data,Yes,Yes,1,NA
+washington_02,open_data,No,Yes,0,NA
+washington_02,registration_other,No,No,1,NA
+washington_02,registration_clinical_trials,No,No,1,NA
+washington_02,comments,No contact form,washington_02,0,NA
