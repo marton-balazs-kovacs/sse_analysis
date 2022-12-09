@@ -1,0 +1,39 @@
+original_var_name,description,new_var_name
+start_date,Start Date,start_date
+end_date,End Date,end_date
+status,Response Type,status
+ip_address,IP Address,ip_address
+progress,Progress,progress
+duration_in_seconds,Duration (in seconds),duration_in_seconds
+finished,Finished,finished
+recorded_date,Recorded Date,recorded_date
+response_id,Response ID,response_id
+recipient_last_name,Recipient Last Name,recipient_last_name
+recipient_first_name,Recipient First Name,recipient_first_name
+recipient_email,Recipient Email,recipient_email
+external_reference,External Data Reference,external_reference
+location_latitude,Location Latitude,location_latitude
+location_longitude,Location Longitude,location_longitude
+distribution_channel,Distribution Channel,distribution_channel
+user_language,User Language,user_language
+q1_0,What are your initials? - Selected Choice,rater_id
+q1_0_3_text,What are your initials? - Other - Text,empty_col
+q24,Select the unique ID of the form that you are rating:,form_id
+q1_1,From which country is this form?,country
+q1_2,From what organisation is this form?,origin_org
+q1_3,What is the name of the organisation?,name_org
+q1_3_1,"What is the R&D/Research-Income rank of the organisation? If it is a national-level body (e.g. NHS) and not a higher education provider (e.g. University), please input ""n/a"". If it is a higher education institution, please type the rank in numerical values (e.g. first = 1).",rank_org
+q1_4,What type of risk is this form? - Selected Choice,risk_level
+q1_4_4_text,What type of risk is this form? - Other - Text,risk_level_text
+q1_5,From which discipline is this form?,field_choice
+q1_5_1,"What is the name of the discipline? (e.g. Social Psychology, Neuropsychology, Medicine, Sociology etc). If unknown, please type ""unknown"" and if it is not applicable ""n/a"".",field_text
+q1_6,"Has the number of participants been explicitly requested?  If the form includes a question that asks for the “methodology” but does not specifically mention the number of participants, we will code this as *not* asking for the number of participants.",sample_size
+q1_7,"Has the sample size justification been explicitly requested? If the form includes a question that asks for the ""methodology"" but does not specifically mention the reason/rationale for sample size, we will code this as *not* asking for sample size justification. To code 'yes' for this question, the form does NOT need to ask specifically for a numerical/statistical justification"".",justification
+q1_8,Have statistical calculations for sample size estimation been explicitly requested or advised? This is whether the form has prompted or has asked for the use of  calculations (e.g. power or precision analyses) to justify the sample size.,calculations
+q1_9,"Has the effect size of interest or minimal clinically important difference (MCID) been explicitly requested? If the form includes a question that asks for the ""methodology"" but does not specifically mention effect size of interest, MCID, or another equivalent term, we will code this a *not* asking for the effect size.",minimal_effect_size
+q1_10,"Does the form use the specific term “Data Management Plan” or something equivalent (e.g. ""Data Collection and Management"") ?",data_management_plan
+q19,Does the form ask if the data will be archived?,archived_data
+q20,Does the form ask if the data will be shared (open data)?,open_data
+q1_11_1,"Has pre-/registration (or another equivalent term) to a research registry (e.g. OSF, researchregistry.com) been explicitly requested or advised? If the form includes a question that asks for the “methodology” but does not specifically request pre-/registration, or another equivalent term, we will code this as *not* asking for pre-/registration.",registration_other
+q1_11_2,"Has pre-/registration (or another equivalent term) to a clinical trials registry (e.g. ClinicalTrials.gov) been explicitly requested or advised? If the form includes a question that asks for the “methodology” but does not specifically request pre-/registration, or another equivalent term, we will code this as *not* asking for pre-/registration.",registration_clinical_trials
+q1_13,Do you have any additional comments about coding this specific REC form or about this study in general?,comments

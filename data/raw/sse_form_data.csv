@@ -1,0 +1,110 @@
+form_file_name,name_org,origin_org,country_org,is_public,rank,form_id
+APPLICATION_IRB_Protocol_v3.92_2022.04.28-1,University of Washington,university,usa,1,5,washington_01
+APPLICATION_IRB_Protocol_No_Contact_with_Subjects_v3.01_2021.11.23,University of Washington,university,usa,1,5,washington_02
+Stanford_NonMedical_SingleIRB,Stanford University,university,usa,1,10,stanford_01
+Stanford_NonMedical_Regular,Stanford University,university,usa,1,10,stanford_02
+Stanford_NonMedical_Expedited,Stanford University,university,usa,1,10,stanford_03
+Stanford_NonMedical_Exempt,Stanford University,university,usa,1,10,stanford_04
+Stanford_Medical_SingleIRB,Stanford University,university,usa,1,10,stanford_05
+Stanford_Medical_Regular,Stanford University,university,usa,1,10,stanford_06
+Stanford_Medical_Expedited,Stanford University,university,usa,1,10,stanford_07
+Stanford_Medical_Exempt,Stanford University,university,usa,1,10,stanford_08
+eRRM Multi-Site Research Application Questions,University of Michigan,university,usa,1,2,michigan_01
+eRRM HUM Application Questions [human subjects],University of Michigan,university,usa,1,2,michigan_02
+Initial_Application_Part 2_Template,University of Maryland,university,usa,1,16,maryland_01
+eFormS (Secondary research),Johns Hopkins University,university,usa,1,1,hopkins_01
+eformE (Exemption_BenignIntervention),Johns Hopkins University,university,usa,1,1,hopkins_02
+eformA (Main),Johns Hopkins University,university,usa,1,1,hopkins_03
+2022-Undergraduate,Duke University,university,usa,1,11,duke_01
+2022-Standard,Duke University,university,usa,1,11,duke_02
+2022-Data,Duke University,university,usa,1,11,duke_03
+UCSD-SBER-Protocol-Template-12.08.21,University California San Diego,university,usa,1,6,uscd_01
+UCSD-Biomedical-Non-Intervention-Protocol-Template-12.08.21,University California San Diego,university,usa,1,6,uscd_02
+UCSD-Biomedical-Intervention-Protocol-Template-12.08.21,University California San Diego,university,usa,1,6,uscd_03
+UCLA Application - All questions,University of California Los Angeles,university,usa,0,7,ucla_01
+PittPRO Questions (1) All in one,University of Pittsburgh,university,usa,0,15,pittsburgh_01
+hrp-590_-_medical_template_protocol_-_with_instructions,"University of Minnesota, Twin Cities",university,usa,1,20,minnesota_01
+hrp-580_-_social_template_protocol_-_with_instructions,"University of Minnesota, Twin Cities",university,usa,1,20,minnesota_02
+hssrec_secondary_data_form_v1._09.01.19 (inc. psychology),University of Warwick,university,uk,1,13,warwick_01
+hssrec_application_form_v6_19.01.22 (inc. psychology),University of Warwick,university,uk,1,13,warwick_02
+bsrec_application_form_v7_19.01.22 (exc. psychology),University of Warwick,university,uk,1,13,warwick_03
+Proportionate_Ethics_Review_Form,University of Leeds,university,uk,1,15,leeds_01
+New_ethical_review_form_v3.0_draft,University of Leeds,university,uk,1,15,leeds_02
+Ethical-Review-Form-updated-12112019,University of Leeds,university,uk,1,15,leeds_03
+Application_form_for_taught_student_modules,University of Leeds,university,uk,1,15,leeds_04
+QMERC_Research_Ethics_Application_Form_-_v2.0_-_24_March_2021[1],Queen Mary University of London,university,uk,1,14,qmul_01
+curec2applicationformdocx,University of Oxford,university,uk,1,1,oxford_01
+curec1achecklistformdocx,University of Oxford,university,uk,1,1,oxford_02
+oxtrecminimalriskapplicationformdocx,University of Oxford,university,uk,1,1,oxford_03
+curec3combinedprotocolapplicationformdocx,University of Oxford,university,uk,1,1,oxford_04
+curec1checklistformdocx ,University of Oxford,university,uk,1,1,oxford_05
+1.-Application-form,Imperial College London,university,uk,1,4,icl_01
+SocialSciences_Glasgow,University of Glasgow,university,uk,1,8,glasgow_01
+SocialSciences_Glasgow_NonStandardData[NOT APPLICABLE],University of Glasgow,university,uk,1,8,glasgow_02
+MVL_Glasgow_OnlineResearch,University of Glasgow,university,uk,1,8,glasgow_03
+MVL_Glasgow_InterventionalResearch,University of Glasgow,university,uk,1,8,glasgow_04
+MVL_Glasgow_F2FResearch,University of Glasgow,university,uk,1,8,glasgow_05
+MVL_Glasgow_ExistingDataResearch,University of Glasgow,university,uk,1,8,glasgow_06
+prec_application_form_updated_september_2021,University of Cambridge,university,uk,1,2,cambridge_01
+proforma,University of Cambridge,university,uk,1,2,cambridge_02
+hbrec_application_form_updated_september_2021_2,University of Cambridge,university,uk,1,2,cambridge_03
+PPLS_ethics_application_form,University of Edinburgh,university,uk,0,5,edinburgh_01
+EMREC Ethics Form v09_DRAFT,University of Edinburgh,university,uk,0,5,edinburgh_02
+aer,University of Birmingham,university,uk,0,12,birmingham_01
+UPDATED Low Risk Application Form March 2019,University College London,university,uk,0,3,ucl_01
+UPDATED High Risk Application Form UPDATED NOVEMBER 2019,University College London,university,uk,0,3,ucl_02
+Undergraduate_Ethics_Review_Protocol_Form_Student-initiated_Project,University of Toronto,university,canada,1,1,toronto_01
+Undergraduate_Ethics_Review_Protocol_Form_Course_Template,University of Toronto,university,canada,1,1,toronto_02
+Human_Participant_Ethics_Protocol_MRHP_Application_Worksheet,University of Toronto,university,canada,1,1,toronto_03
+Graduate_Course_Template_Protocol_Submission_Form,University of Toronto,university,canada,1,1,toronto_04
+non-medical eform template,McGill University,university,canada,1,3,mcgill_01
+medical initial form template,McGill University,university,canada,1,3,mcgill_02
+VRR-106-Version-14-decembre-2021[other committee],Université Laval,university,canada,1,7,laval_01
+VRR-105-Version-septembre-2020[health committee],Université Laval,university,canada,1,7,laval_02
+BritishColumbia_ClinicalREB,University of British Columbia,university,canada,1,2,ubc_01
+BritishColumbia_BehaviouralREB,University of British Columbia,university,canada,1,2,ubc_02
+human-application-form-sample_2021,University of Alberta,university,canada,1,6,alberta_01
+Content (ENG FR) - Regular Submission Form,University of Ottawa,university,canada,0,8,ottawa_01
+Formulaire2022-1729-11-CERC(4884),Université de Montréal,university,canada,0,4,montreal_01
+Formulaire2022-1728-11-CERSES(4883),Université de Montréal,university,canada,0,4,montreal_02
+IRISS TEST Protocol,University of Calgary,university,canada,0,5,calgary_01
+Course-Based-Form_Clean_27June2014,McMaster University,university,canada,0,9,mcmaster_01
+Blank Standard Application for student with all boxes checked (non-healthmed),McMaster University,university,canada,0,9,mcmaster_02
+HSREB-Standard-Application-Form(MAY2021),Queen's University,university,canada,1,11,queens_01
+HSREB-Non-Recruitment-Application-From(MAY2021),Queen's University,university,canada,1,11,queens_02
+HSREB-Intermediate-Application-Form(MAY2021),Queen's University,university,canada,1,11,queens_03
+GREB_Standard_Application_Form,Queen's University,university,canada,1,11,queens_04
+GREB Self-Study Application Form_revised 2021JAN07 for WEB,Queen's University,university,canada,1,11,queens_05
+GREB Secondary Use of Data Application Form 2020MAR30,Queen's University,university,canada,1,11,queens_06
+UOW HREC Application Form Part 2 - Research Data Management Plan  V2,University of Wollongong,university,australia,1,17,wollongong_01
+UOW Application Form Part 1 V12,University of Wollongong,university,australia,1,17,wollongong_02
+Human Ethics - Project Description_Protocol (Health & Medical) Template,University of Tasmania,university,australia,1,19,tasmania_01
+Human Ethics - Project Description_Protocol  (Social Science) Template,University of Tasmania,university,australia,1,19,tasmania_02
+UNSW Risk Assessment Human Ethics Application Form 2021 [both risks],University of New South Wales,university,australia,1,4,unsw_01_a
+Project Description April 2021,University of New South Wales,university,australia,1,4,unsw_01_b
+Negligible Risk Application Form 2020,University of New South Wales,university,australia,1,4,unsw_02
+Clinical Trial Protocol Template [Investigational Medical Product],University of New South Wales,university,australia,1,4,unsw_03
+Clinical Trial Protocol Template [Investigational Medical Device],University of New South Wales,university,australia,1,4,unsw_04
+Clinical Trial Protocol Template [Health Interventions] (1),University of New South Wales,university,australia,1,4,unsw_05
+Project-Description-7-July-2020,La Trobe University,university,australia,1,15,latrobe_01_a
+HREC-Application-02.08.2022,La Trobe University,university,australia,1,15,latrobe_01_b
+human-research-ethics-application-practice-form,Curtin University,university,australia,1,12,curtin_01
+hrec-application-form-2019-v2,University of Adelaide,university,australia,1,9,adelaide_01
+UWA HREC- Application Form,University of Western Australia,university,australia,0,7,uwa_01
+Low risk review blank form,Monash University,university,australia,0,3,monash_01
+HREC review blank form,Monash University,university,australia,0,3,monash_02
+Blank Application Form - Full Application,Australian National University,university,australia,0,6,anu_01
+Blank Application Form - Expedited Application,Australian National University,university,australia,0,6,anu_02
+FORM_Project_Description_Template_1278589,Western Sydney University,university,australia,1,20,wsu_01
+Biosafety_and_Radiation_Safety_Application,Western Sydney University,university,australia,1,20,wsu_02
+Secondary Research Protocol Template,National Institutes of Health,national,usa,1,0,nih_01
+Retrospective Data or Biospecimen Review Protocol Template 30 June 2021,National Institutes of Health,national,usa,1,0,nih_02
+Natural History and Observational Trials Protocol Template,National Institutes of Health,national,usa,1,0,nih_03
+Interventional Drug and Device Clinical Trials Protocol Template,National Institutes of Health,national,usa,1,0,nih_04
+Collecting Prospective Data from Humans Protocol Template 30 June 2021,National Institutes of Health,national,usa,1,0,nih_05
+Behavioral and Social Science Research Protocol template,National Institutes of Health,national,usa,1,0,nih_06
+Integrated Research Application System - Help Notes,National Health Service,national,uk,1,0,nhs_01_a
+FullDatasetTrialForm,National Health Service,national,uk,1,0,nhs_01_b
+Instructions,Health Canada,national,canada,1,0,healthcanada_01_a
+initial-review-eng,Health Canada,national,canada,1,0,healthcanada_01_b
+HREA Form,National Health and Medical Research Council,national,australia,1,0,nhrmc_01
